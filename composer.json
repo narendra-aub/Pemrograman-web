@@ -1,0 +1,19 @@
+{
+    "name": "user/uts_praktek",
+    "description": "Praktikum 7 pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "User\\UtsPraktek\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Narendra",
+            "email": "narendranurasmara01@gmail.com"
+        }
+    ]
+}
